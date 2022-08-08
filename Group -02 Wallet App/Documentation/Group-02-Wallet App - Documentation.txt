@@ -1,0 +1,1 @@
+We have used both single line & multiple line comments in our source code file . In the lab reort , code explanation section was added where we tried to explain our code briefly . 
