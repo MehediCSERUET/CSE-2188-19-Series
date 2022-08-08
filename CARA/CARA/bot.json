@@ -1,0 +1,83 @@
+[
+    {
+      "response_type": "greeting",
+      "user_input": ["hello", "hi", "hey", "what up"],
+      "bot_response": "Hey there!",  
+      "required_words": []
+    },
+    {
+      "response_type": "greeting",
+      "user_input": ["see you", "goodbye", "bye"],
+      "bot_response": "See you later!",
+      "required_words": []
+    },
+    {
+      "response_type": "thanking",
+      "user_input": ["thanks", "for", "your", "help", "assistance"],
+      "bot_response": "The pleasure is all mine!",
+      "required_words": ["thanks", "help","assistance"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["can", "you", "give", "me", "the", "class", "routine"],
+      "bot_response": "Sure! Here's the link of the class routine: https://drive.google.com/file/d/1kluBZcD1Xy8NRa_LYozmTG9OQG0Wrfbd/view?usp=sharing",
+      "required_words": ["class", "routine"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["can", "you", "give", "me", "the", "exam", "schedule"],
+      "bot_response": "Sure! Here's the link to the exam schedule: https://drive.google.com/file/d/1flvl97EAEGTXnNk5FXsTPn_DnhKiuIi3/view?usp=sharing ",
+      "required_words": ["exam", "schedule"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["can", "you", "give", "me", "the", "notes", "of", "me 2155"],
+      "bot_response": "Sure! Here's the link to the notes of ME2155: https://drive.google.com/drive/folders/19nLQQakI3MJOLdNb9JlVUaIOFDFgcthu?usp=sharing ",
+      "required_words": ["notes", "me"]
+    },
+
+    {
+      "response_type": "question",
+      "user_input": ["can", "you", "give", "me", "the", "notes", "of", "cse", "2187"],
+      "bot_response": "Sure! Here's the link to the notes of CSE2187: https://drive.google.com/drive/folders/19nLQQakI3MJOLdNb9JlVUaIOFDFgcthu?usp=sharing",
+      "required_words": ["notes", "cse"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["can", "you", "give", "me", "the", "notes", "of", "eee", "2187"],
+      "bot_response": "Sure! Here's the link to the notes of EEE2187: https://drive.google.com/drive/folders/19nLQQakI3MJOLdNb9JlVUaIOFDFgcthu?usp=sharing",
+      "required_words": ["notes", "eee"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["can", "you", "give", "me", "the", "notes", "of", "math", "2127"],
+      "bot_response": "Sure! Here's the link to the notes of MATH2127: https://drive.google.com/drive/folders/19nLQQakI3MJOLdNb9JlVUaIOFDFgcthu?usp=sharing ",
+      "required_words": ["notes", "math"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["can", "you", "give", "me", "the", "notes", "of", "humanities", "2127"],
+      "bot_response": "Sure! Here's the link to the notes of HUM2127: ",
+      "required_words": ["notes", "humanities: https://drive.google.com/drive/folders/19nLQQakI3MJOLdNb9JlVUaIOFDFgcthu?usp=sharing"]
+    },
+
+    {
+      "response_type": "question",
+      "user_input": ["can", "you", "give", "me", "the", "contact", "details", "of", "our", "course", "advisors"],
+      "bot_response": " Zinat Tasneem\nAssistant Professor\nDept. of Mechatronics Engineering,\nRajshahi University of Engineering & Technology,\nRajshahi-6204.\nMd. Faisal Rahman Badal\nLecturer\nDept. of Mechatronics Engineering,\nRajshahi University of Engineering & Technology,\nRajshahi-6204",
+
+      "required_words": ["notes", "humanities: https://drive.google.com/drive/folders/19nLQQakI3MJOLdNb9JlVUaIOFDFgcthu?usp=sharing"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["how", "are", "you"],
+      "bot_response": "I'm great! Thanks for asking.",
+      "required_words": ["how", "are", "you"]
+    },
+    {
+      "response_type": "help",
+      "user_input": ["how", "can", "you", "help", "me"],
+      "bot_response": "I can provide you with class and exam schedules, contact details of your course advisors and necessary notes and books for your current semester",
+      "required_words": ["how", "help"]
+    }
+  ]
