@@ -1,0 +1,15 @@
+Software Requirements(for users):
+1. Smartphone with android OS (Android 9 and above)
+2. The app 
+
+
+Software Requirements(for developers):
+1. Android Studio 
+2. Java Development Kit
+3. Firebase real time database
+
+
+Hardware Requirements(for developers):
+1. Windows 10 / Linux 
+2. Ram 8 GB minimum 
+3. 6 GB harddrive space
