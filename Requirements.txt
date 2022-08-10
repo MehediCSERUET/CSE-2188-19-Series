@@ -1,0 +1,17 @@
+Game Requirements(for users):
+1. Windows 7 or higher.
+2. The source file
+3. Minimum 700 mb of harddisk space.
+4. Minimum 1 gb of RAM.
+
+
+Software Requirements(for developers):
+1. Python 3.0 or higher
+2. Spyder from anaconda navigator/ pycharm
+3. Pygame
+
+
+Hardware Requirements(for developers):
+1. Windows 7 and higher. 
+2. Ram 2 GB minimum 
+3. 2 GB harddrive space
