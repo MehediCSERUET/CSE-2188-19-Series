@@ -1,0 +1,5 @@
+No prior requirements are needed to use this file. But the following points may be taken under consideration:
+
+- Use the up-to-date Windows (Windows 7 or upgraded)
+- RAM: 4 GB
+- Processor: Dual Code Processor

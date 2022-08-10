@@ -1,0 +1,9 @@
+// READ THIS BEFORE INSTALLING THE APPLICATION //
+
+- By clicking on the "Gravity Simulator Installer.exe" and following the steps, a new folder will be formed and inside that the .exe file of the Gravity Simulator could be found.
+
+- For running the code, one needs to put the absolute path of the "gravity.png" file in line 16.
+
+- To know how to use the Application, read the README.md file which is written in markdown.
+
+- Documentation is not given as proper commenting is done in the code.
